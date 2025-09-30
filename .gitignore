@@ -1,0 +1,7 @@
+credit.csv
+.env
+.venv
+
+# 디렉토리 무시
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
